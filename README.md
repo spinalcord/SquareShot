@@ -18,6 +18,6 @@ Shortcuts.
 | Color picker       | Change color                   |
 | Mouse scroll       | Change size                    |
 | Ctrl + C           | Copy to clipboard              |
-| Ctrl + S           | Save document                  |
+| Ctrl + S           | Save screenshot                  |
 
 ![](/pics/1.png)
