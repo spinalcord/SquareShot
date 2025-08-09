@@ -1,7 +1,7 @@
 # SquareShot
 Linux screenshot tool for x11 and wayland. Optimized to solve x11 screenshot fractional scaling issues.
 Please understand that the support of wayland is very restricted, it might not work on your compsitors.
-My Tests.
+My Tests:
 - Qtile x11
 - KDE Wayland/x11
 - (Assumptions for other Compsitors)
